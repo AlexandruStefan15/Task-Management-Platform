@@ -1,8 +1,8 @@
 # Task-Management-Platform
 
 Project link: https://management.scopegreen.ro/ <br><br>
-demo user: user@example.com <br>
-password: HjP2a4L15dK7 <br>
+Demo user: user@example.com <br>
+Password: HjP2a4L15dK7 <br>
 
 
 A task management platform inspired by Asana, designed to help teams organize projects, tasks, sections, custom fields, and members in one place. Users can create projects, manage tasks with dynamic columns like status, priority, assignee, and due date, collaborate through role-based permissions, and track work across multiple projects efficiently.
