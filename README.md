@@ -1,6 +1,6 @@
 # Task-Management-Platform
 
-Project link: [https://management.scopegreen.ro/](https://management-scopegreen.netlify.app/auth) <br><br>
+Project link: [https://management-scopegreen.netlify.app/] <br><br>
 Demo user: user@example.com <br>
 Password: HjP2a4L15dK7 <br>
 
