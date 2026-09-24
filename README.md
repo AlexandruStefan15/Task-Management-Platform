@@ -10,3 +10,5 @@ A task management platform inspired by Asana, designed to help teams organize pr
 <br>
 
 ![Overview photo1](task-management-platform.png)
+
+![Overview photo1](task-management-platform2.png)
